@@ -29,4 +29,4 @@ var parentGroupId = 86130; // Created group ID
 
 ## Usage ##
 
-`$ node sap-bi-users-importer.js users.csv`
+`$ node start.js users.csv`
