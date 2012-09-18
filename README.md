@@ -5,7 +5,7 @@ Written in JavaScript.
 
 ## Requirements ##
 * SAP BO/BI 3.2
-* Node.JS > v0.8.0
+* Node.JS >= v0.8.0
 * JQuery
 
 ## Preparation ##
