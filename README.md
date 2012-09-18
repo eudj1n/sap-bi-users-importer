@@ -5,8 +5,10 @@ Written in JavaScript.
 
 ## Requirements ##
 * SAP BO/BI 3.2
-* Node.JS >= v0.8.0
 * JQuery
+* Node.JS >= v0.8.0
+* Node.JS external modules: jsdom, http-agent (can be installed via npm)
+
 
 ## Preparation ##
 
